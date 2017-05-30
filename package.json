@@ -1,0 +1,28 @@
+{
+  "name": "blog-api-express",
+  "version": "1.0.0",
+  "description": "A blog API implemented in Express for practice.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dakshshah96/blog-api-express.git"
+  },
+  "keywords": [
+    "blog",
+    "api",
+    "express",
+    "practice"
+  ],
+  "author": "Daksh Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dakshshah96/blog-api-express/issues"
+  },
+  "homepage": "https://github.com/dakshshah96/blog-api-express#readme",
+  "dependencies": {
+    "uuid": "^3.0.1"
+  }
+}
