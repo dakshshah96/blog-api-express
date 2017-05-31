@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/dakshshah96/blog-api-express#readme",
   "dependencies": {
+    "morgan": "^1.8.2",
     "uuid": "^3.0.1"
   }
 }
