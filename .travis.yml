@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: ZiHp0ie6fK2wmIW+rK2zR7iG8ff5YbwZ+RbpIWC0L5TM6/bNQl/tbEhh+q5OepgTFGuEMZ5P5HbGH8qr4Ob9dj2LuHV7O3GNVYuhfEaDhdaLnA4ue+SmJP89JTylGMI3YDyzWcDqHCSpT6GYFIn2lvnBUMaTsB9jXNs0X8XyEt5z0mvuVuRLMSd9JXtfAmhijn2O/dNjk23e4AE3B91GCMtAYCXOQGH2wk76x2oH0QSvGFLi+ovbsEwCw0bNhA8ijxRmv9YvWEV7jPqhZWF9xTJTTlqvl2e+8/nDf9Mn1U/s9X4Df5JRNogNrw27YEKmJXk3aZtvPJo3HBCnEobSabO9dlesN0g1AGJW4mdT4e37nxNEUFuX7Zl/vB7rPfn6i7HhM2pOTvzrh0+7i5jAbcZEdZycw1c3cETYI7REB+jIWBbHP4tw4rcPei/c5V3jZz8GElfECGBzTlco/ej8DQIIwYKlCzy0T/hw3x4T/JsKCyjMYftDDIdqk2EgJ3W53kMESXeanyX/eHBMZ9qrfDqAVqvxb+DrYWIKjdyMRemDx+tajq/Y7n/fYdY4mXvWa/CBT9YzP1haLQ6I0b3u+q3cS6d3mTFNS3Oe1xoYkaawtP6dOK0PC8CC/1l202Cv16vlm7B9dx8QAy4wwc0jUlhQenHPRJihhTVTK/zwP4M=
-  app: cryptic-wave-7491
+  app: cryptic-wave-74916
   on:
     repo: dakshshah96/blog-api-express
