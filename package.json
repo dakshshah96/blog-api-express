@@ -4,7 +4,8 @@
   "description": "A blog API implemented in Express for practice.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "test": "mocha ./test"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,9 @@
   },
   "homepage": "https://github.com/dakshshah96/blog-api-express#readme",
   "dependencies": {
+    "chai": "^4.0.1",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.4.2",
     "morgan": "^1.8.2",
     "uuid": "^3.0.1"
   }
